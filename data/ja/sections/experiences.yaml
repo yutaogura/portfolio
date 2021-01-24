@@ -1,0 +1,61 @@
+# section information
+section:
+  name: Career
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: ヤマハ株式会社
+    url: "https://www.yamaha.com/ja/"
+    location: Hamamatsu-shi, Shizuoka, 430-8650, Japan
+    # company overview
+    overview: ピアノ、電子楽器、管・弦・打楽器等の製造販売等
+  positions:
+  - designation: （配属未定）
+    start: Apr 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    # responsibilities:
+    # - Design and develop XYZ tool for ABC task
+    # - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    # - Lead backend team.
+
+  # - designation: Junior Software Engineer
+  #   start: Nov 2017
+  #   end: Oct 2019
+  #   responsibilities:
+  #   - Implement and test xyz feature for abc tool.
+  #   - Support client for abc tool.
+  #   - Learn k,d,w technology for xyz.
+
+- company:
+    name: VIVITA 株式会社
+    url: "https://vivita.co/"
+    overview: 子供のためのクリエイティブスペースVIVISTOPの運営，子供たちの好奇心を加速するソフトウェアVIVIWAREの開発
+  positions:
+  - designation: インターン
+    start: Feb 2019
+    end: Apr 2021
+    responsibilities:
+    - VIVISTOP 柏の葉 クルー
+    - アンドロイドアプリ開発
+    - ワークショップの企画・実施
+
+- company:
+    name: Groove X 株式会社
+    url: "https://groove-x.com/"
+    overview: 家庭用ロボットLOVOTの製造・販売
+  positions:
+  - designation: インターン
+    start: Feb 2018
+    end: Dec 2018
+    responsibilities:
+    - 音声認識システム評価
+    - 話者認識システム評価

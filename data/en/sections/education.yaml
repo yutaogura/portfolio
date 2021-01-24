@@ -1,0 +1,53 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+# - name: Ph.D in Quantum Cryptography
+#   icon: fa-microscope
+#   timeframe: 2016-2020
+#   institution:
+#     name: ABC University of Technology
+#     url: "#"
+#   grade: #(optional)
+#     scale: CGPA
+#     achieved: 3.6
+#     outOf: 4
+#   publications: #(optional)
+#   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#     url: "#"
+#   - title: Fusce eu augue ut odio porttitor pulvinar.
+#     url: "#"
+#   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+#     url: "#"
+- name: Master of Science in Information Science
+  icon: fa-graduation-cap
+  timeframe: 2019-2020
+  lab: 
+      name: Katsurada lab.
+      url: https://www.rs.tus.ac.jp/mmi-lab/index.html 
+  institution:
+     name: Tokyo University of Science 
+     url: "https://www.tus.ac.jp/en/"
+  publications:
+   - title: Expectation-based Parsing for Jazz chord Sequences 
+     url: "#"
+- name: Bachelor of Science in Information Science
+  icon: fa-university
+  timeframe: 2015-2018
+  institution:
+    name: Tokyo University of Science
+    url: "https://www.tus.ac.jp/en/"
+- name: takamatsu, Kagawa.
+  icon: fa-school
+  timeframe: 2013-2015
+  institution:
+    name: Takamatsu High School
+    url: https://www.kagawa-edu.jp/takah02/htdocs/
