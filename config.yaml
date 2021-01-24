@@ -12,7 +12,7 @@ languages:
     weight: 1
   ja:
     languageName: 日本語
-    languageCode: ja
+    languageCode: jp
     weight: 10
 
 # Control TOC depth
