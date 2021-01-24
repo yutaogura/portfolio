@@ -1,7 +1,7 @@
 ---
-title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+title: "個人サイトを作りました"
+date: 2021-01-24T06:00:20+06:00
+description: このサイトの説明
 menu:
   sidebar:
     name: Introduction
@@ -9,8 +9,14 @@ menu:
     weight: 10
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+初めまして，おぐです．
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+この度，自分のポートフォリオサイト兼ブログ？という物を作ってみました．
+
+## これは何？
+
+## 何を書いていくか？
+
+### コンテンツ予定
+
+## 置き場として

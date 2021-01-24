@@ -11,39 +11,42 @@ section:
 # Give a summary of you each skill in the summary section.
 # about logo dir: Asset files must be stored in the asset directory. This is /assets by default, but can be configured via the configuration file’s assetDir key.
 skills:
-- name: Kubernetes
-  logo: "/images/c++.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: javascript / HTML5
+  logo: "/images/javascript.png"
+  summary: "web audio APIなど音・音楽系のライブラリが充実していて好きです。もっと音楽系のアプリを作って行きたいです。"
 
-- name: Go Development
-  logo: "/images/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: python
+  logo: "/images/python.png"
+  summary: "研究やちょっとした作業によく使います。機械学習・ニューラルネットワークも基本くらいは分かります。。。"
 
-- name: Cloud Computing
-  logo: "/images/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Midi
+  logo: "/images/midi.png"
+  summary: "MIDIを使ったアプリを作るのが好きです。MIDI検定３級。"
 
-- name: Docker
-  logo: "/images/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+- name: iOS App (Swift)
+  logo: "/images/swift.png"
+  summary: "ちょっとだけ、iOSアプリかじりました。Androidよりは好きです。"
 
-- name: Prometheus
-  logo: "/images/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
-
-- name: Linux
-  logo: "/images/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+- name: Android App (Java)
+  logo: "/images/android.png"
+  summary: "VIVITAインターン中にVIVIWARE Harmony という 音楽系アプリのプロトタイプを作りました。Kotlin勉強しなくちゃ"
 
 - name: Git
   logo: "/images/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "なんちゃってgitで今まで何とかきているので、しっかり勉強しましょう（）"
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: "/images/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Saxophone
+  logo: "/images/sax.png"
+  summary:  "Alt.:YAS-62, Meyer 5MM, Jazz Select 3H \n 
+             Sop.:Yanagisawa S902, Gootsu, JS 3M \n
+             Ten.:YTS-62(old),Otto link, Red Java "  
+
+- name: Other instruments
+  logo: "/images/sax.png"
+  summary: "Flute: Perl flute 665, Wind Synth: AKAI EWI 4000sw, Key: CASIO PX-150, Tin whistle, CHAJCHAS"
+
+- name: Composition
+  logo: "/images/sax.png"
+  summary: " DAW: Logic pro X"
+
