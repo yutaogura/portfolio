@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 title: "Yuta Ogura"
 theme: "toha"
-backgroundImage:  "/images/default-background.jpg"
+
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
@@ -40,3 +40,6 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
+
+  # Background image of the landing page
+  background: /images/default-background.jpg
