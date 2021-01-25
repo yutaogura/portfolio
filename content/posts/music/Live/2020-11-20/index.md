@@ -1,5 +1,5 @@
 ---
-title: "2020-11-20 Jazz Live"
+title: "Standard Jazz Live"
 date: 2020-11-20T06:00:20+06:00
 menu:
   sidebar:
@@ -9,4 +9,16 @@ menu:
     weight: 10
 ---
 
-11月のjazz liveの記録をかくよ
+自主企画ジャズライブ @柏Studio Wuu 
+
+sax. Yuta Ogura (小椋裕太) \
+gt. Shota Taniguchi (谷口翔太) \
+pf. Satoshi Miyazaki (宮崎哲) \
+ba. Hiroki Hoshino (星野広規) \
+drs. Junya Takatoku (高徳純也) 
+
+- Aces Up! (original)
+ {{< youtube yx5IMNoftVQ >}}
+
+- full live recording 
+{{< youtube qFI7mx0WdXU >}}
