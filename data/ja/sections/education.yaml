@@ -37,8 +37,8 @@ degrees:
      name: 東京理科大学大学院　理工学研究科 
      url: "https://www.tus.ac.jp/en/"
   publications:
-   - title: Expectation-based Parsing for Jazz chord Sequences 
-     url: "#"
+   - title: Expectation-based Parsing for Jazz chord Sequences (SMC2020) 
+     url: "files/SMCCIM_2020_paper_111.pdf"
 - name: 学士(理学)
   icon: fa-university
   timeframe: 2015-2018
