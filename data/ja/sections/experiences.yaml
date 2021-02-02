@@ -44,9 +44,9 @@ experiences:
     start: Feb 2019
     end: Apr 2021
     responsibilities:
-    - VIVISTOP 柏の葉 クルー
-    - アンドロイドアプリ開発
-    - ワークショップの企画・実施
+    - VIVISTOP 柏の葉 運営クルー
+    - 教育系音楽アプリ開発（Android）
+    - 対面/オンライン　ワークショップの企画・実施
 
 - company:
     name: Groove X 株式会社
@@ -57,5 +57,5 @@ experiences:
     start: Feb 2018
     end: Dec 2018
     responsibilities:
-    - 音声認識システム評価
-    - 話者認識システム評価
+    - 音声認識システム前半の開発補助
+    - 新規話者認識システムの調査・開発・評価
