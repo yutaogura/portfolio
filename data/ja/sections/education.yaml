@@ -35,7 +35,7 @@ degrees:
       url: https://www.rs.tus.ac.jp/mmi-lab/index.html 
   institution:
      name: 東京理科大学大学院　理工学研究科 情報科学専攻 
-     url: "https://www.tus.ac.jp/en/"
+     url: "https://www.tus.ac.jp/"
   publications:
    - title: Expectation-based Parsing for Jazz chord Sequences (SMC2020) 
      url: "files/SMCCIM_2020_paper_111.pdf"
@@ -44,7 +44,7 @@ degrees:
   timeframe: 2015-2018
   institution:
     name: 東京理科大学　理工学部　情報科学科
-    url: "https://www.tus.ac.jp/en/"
+    url: "https://www.tus.ac.jp/"
 - name: 
   icon: fa-school
   timeframe: 2013-2015
