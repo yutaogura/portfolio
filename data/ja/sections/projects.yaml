@@ -25,39 +25,35 @@ projects:
 - name: イラストを勉強しよう
   logo: /images/adobe-illustrator.png
   role: illustrator
-  url: https://github.com/tensorflow/tensorflow
+  url: ""
   summary: 絵がうまくなりたい
   tags: ["hobby"]
 
 - name: 音楽アプリ開発
   logo: /images/javascript.png
   role: creator
-  url: https://github.com/tensorflow/tensorflow
-  #url: ""
+  url: ""
   summary: アプリを作るぞ
   tags: ["technology"]
 
 - name: 動画制作
   logo: /images/after-effects.png
   role: creator
-  url: https://github.com/tensorflow/tensorflow
-  #url: ""
+  url: ""
   summary: blenderで3DCG, After Effectsでモーショングラフィックス，premier proで動画編集
   tags: ["hobby"]
 
 - name: 楽曲制作
   logo: /images/sheet.png
   role: creator
-  url: https://github.com/tensorflow/tensorflow
-  #url: ""
+  url: ""
   summary: 曲を作るぞ
   tags: ["hobby"]
 
 - name: 演奏活動
   logo: /images/sax.png
   role: creator
-  url: https://github.com/tensorflow/tensorflow
-  #url: ""
+  url: ""
   summary: ライブをするぞ
   tags: ["music",hobby"]
 
