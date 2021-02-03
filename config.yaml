@@ -48,4 +48,4 @@ params:
     enable: true
 
   # Background image of the landing page
-  background: /images/default-background.jpg
+  background: /images/sanport.jpg
