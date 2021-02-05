@@ -13,7 +13,7 @@ section:
 skills:
 - name: javascript / HTML5
   logo: "/images/javascript.png"
-  summary: "I implemented some web Apps with web audio API．"
+  summary: "implemented some web Apps with web audio API．"
 
 - name: python
   logo: "/images/python.png"
@@ -29,7 +29,7 @@ skills:
 
 - name: Android App (Java)
   logo: "/images/android.png"
-  summary: "created VIVIWARE Harmony"
+  summary: "created musical education App"
 
 - name: Git
   logo: "/images/git.png"

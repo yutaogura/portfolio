@@ -3,7 +3,7 @@
 other = "ホーム"
 
 [posts]
-other = "Blog"
+other = "Posts"
 
 [toc_heading]
 other = "目次"
@@ -51,7 +51,7 @@ other = "編集リクエストを送る"
 other = "のうち"
 
 [publications]
-other = "出版物"
+other = "論文"
 
 [taken_courses]
 other = "受講したコース"

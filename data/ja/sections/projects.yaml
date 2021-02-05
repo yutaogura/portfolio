@@ -11,61 +11,62 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: technology
-  filter: "technology"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
-- name: Music
+- name: music
   filter: "music"
+- name: design
+  filter: "design"
+- name: engineering
+  filter: "engineering"
+- name: research
+  filter: "research"
 
 # your projects
 projects:
-- name: イラストを勉強しよう
+- name: デザイン制作
   logo: /images/adobe-illustrator.png
-  role: illustrator
-  url: ""
-  summary: 絵がうまくなりたい
-  tags: ["hobby"]
+  role: design
+  url: 
+  summary: "illustrator"
+  tags: ["design"]
 
 - name: 音楽アプリ開発
   logo: /images/javascript.png
-  role: creator
+  role: engineering
   url: ""
-  summary: アプリを作るぞ
-  tags: ["technology"]
+  summary: Web Audio API
+  tags: ["engineering"]
 
-- name: 動画制作
+- name: 映像制作
   logo: /images/after-effects.png
-  role: creator
+  role: design
   url: ""
-  summary: blenderで3DCG, After Effectsでモーショングラフィックス，premier proで動画編集
-  tags: ["hobby"]
+  summary: blender, After Effects，Premier Pro
+  tags: ["design"]
 
 - name: 楽曲制作
   logo: /images/sheet.png
-  role: creator
+  role: music
   url: ""
-  summary: 曲を作るぞ
-  tags: ["hobby"]
+  summary: ""
+  tags: ["music"]
 
-- name: 演奏活動
+- name: Live
   logo: /images/sax.png
-  role: creator
+  role: music
   url: ""
-  summary: ライブをするぞ
-  tags: ["music",hobby"]
+  summary: live
+  tags: ["music"]
 
 - name: 音楽的期待に基づく和声解析
-  role: Master thesis
+  role: research
   timeline: "Aug 2019 - Mar 2021"
   repo: "https://github.com/yutaogura/expectation-based-parsing"
-  summary: 認知的音楽理論の研究
-  tags: ["technology","music","academic"]
+  summary: research on cognitive music theory
+  tags: ["research","music"]
 
-- name: 音楽コード解析
-  role: Graduate thesis
+- name: 自動コード推定
+  role: research
   timeline: "Apr 2018 - Mar 2019"
-  summary: 音楽情報検索(MIR)の研究
-  tags: ["academic"," music"]
+  summary: research
+  tags: ["research"," music"]
+
