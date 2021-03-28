@@ -37,8 +37,10 @@ degrees:
      name: 東京理科大学大学院　理工学研究科 情報科学専攻 
      url: "https://www.tus.ac.jp/"
   publications:
-   - title: Expectation-based Parsing for Jazz chord Sequences (SMC2020) 
-     url: "files/SMCCIM_2020_paper_111.pdf"
+   - title: 【学生奨励賞受賞】音楽的期待に基づく漸進的構造解析によるジャズ和声の意外性に関する考察, 小椋裕太, 大村英史, 東条敏, 桂田浩一, 第130回音楽情報科学研究会
+      url: https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=210223&item_no=1&page_id=13&block_id=8
+   - title: Expectation-based Parsing for Jazz chord Sequences, Yuta Ogura, Hidefumi Ohmura, Yui Uehara, Satoshi Tojo, SMC2020 
+      url: "files/SMCCIM_2020_paper_111.pdf"
 - name: 学士(理学)
   icon: fa-university
   timeframe: 2015-2018
