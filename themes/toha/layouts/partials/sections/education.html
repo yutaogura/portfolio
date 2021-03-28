@@ -47,6 +47,7 @@
                                     <ul>
                                         {{ range .publications }}
                                             <li><a href="{{ .url }} ">{{ .title }}</a></li>
+                                            {{ .author}}
                                         {{ end }}
                                     </ul>
                                 </div>
