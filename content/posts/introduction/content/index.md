@@ -1,11 +1,12 @@
 ---
-title: "ポートフォリオサイトを作りました"
+title: "このサイトについて"
 date: 2021-01-24T06:00:20+06:00
 description: このサイトの説明
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: このサイトについて
+    identifier: introduction-child
+    parent: introduction-parent
     weight: 10
 ---
 
