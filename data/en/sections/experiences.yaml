@@ -13,11 +13,11 @@ experiences:
 - company:
     name: Yamaha Co.
     url: "https://www.yamaha.com/en/"
-    location: Hamamatsu-shi, Shizuoka, 430-8650, Japan
+    # location: Hamamatsu-shi, Shizuoka, 430-8650, Japan
     # company overview
     overview: the manufacture and sales of pianos; digital musical instruments; wind, string, and percussion instruments; and other music-related activities.
   positions:
-  - designation: A new employee
+  - designation: Software Engineer
     start: Apr 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020

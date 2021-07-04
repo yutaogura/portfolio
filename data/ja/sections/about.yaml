@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: 東京理科大学大学院 情報科学専攻 修士2年
+designation: ソフトウェアエンジニア/サックスプレイヤー
 # your company information
 # company:
 #   name: 東京理科大学大学院 情報科学専攻
@@ -19,7 +19,7 @@ designation: 東京理科大学大学院 情報科学専攻 修士2年
 
 # a summary about you
 profile_name: 小椋 裕太
-summary: 1996年生まれ。香川県出身。大学院では計算論的音楽理論を研究。サックス、フルート、ピアノを演奏。本Webサイトの文章は私個人の意見であり、所属企業・部門見解を代表するものではありません。
+summary: 1996年生まれ。香川県出身。専門は、音楽情報科学、計算論的音楽理論、モバイルアプリケーション。サックス、フルート、キーボードを演奏。本Webサイトの文章は私個人の意見であり、所属企業・部門見解を代表するものではありません。
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

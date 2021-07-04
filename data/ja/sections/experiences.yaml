@@ -13,11 +13,11 @@ experiences:
 - company:
     name: ヤマハ株式会社
     url: "https://www.yamaha.com/ja/"
-    location: Hamamatsu-shi, Shizuoka, 430-8650, Japan
+    # location: Hamamatsu-shi, Shizuoka, 430-8650, Japan
     # company overview
-    overview: ピアノ、電子楽器、管・弦・打楽器等の製造販売等
+    overview: 電子楽器のソフトウェア開発
   positions:
-  - designation: （配属未定）
+  - designation: ソフトウェアエンジニア
     start: Apr 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
@@ -51,7 +51,7 @@ experiences:
 - company:
     name: Groove X 株式会社
     url: "https://groove-x.com/"
-    overview: 家庭用ロボットLOVOTの製造・販売
+    overview: 家庭用ロボットLOVOTの開発
   positions:
   - designation: インターン
     start: Feb 2018
