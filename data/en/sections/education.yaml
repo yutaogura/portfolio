@@ -38,13 +38,13 @@ degrees:
      url: "https://www.tus.ac.jp/en/"
   publications:
    - title: Estimating Unexpectedness in Jazz Harmony with a Probabilistic Incremental Parser
-     author: Yuta Ogura, Hidefumi Ohmura, Satoshi Tojo, SMC2021
+     author: Yuta Ogura, Hidefumi Ohmura, Satoshi Tojo, Kouichi Katsurada, SMC2021
      url: "https://www.smc2020torino.it/SMC2021_papers/SMC_2021_paper_42.pdf" 
    - title: 音楽的期待に基づく漸進的構造解析によるジャズ和声の意外性に関する考察
      author: 小椋裕太, 大村英史, 東条敏, 桂田浩一, 第130回音楽情報科学研究会,【学生奨励賞受賞】
      url: "https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=210223&item_no=1&page_id=13&block_id=8"
    - title: Expectation-based Parsing for Jazz chord Sequences
-     author: Yuta Ogura, Hidefumi Ohmura, Yui Uehara, Satoshi Tojo, SMC2020 
+     author: Yuta Ogura, Hidefumi Ohmura, Yui Uehara, Satoshi Tojo, Kouichi Katsurada, SMC2020 
      url: "files/SMCCIM_2020_paper_111.pdf"
 - name: Bachelor of Science in Information Science
   icon: fa-university
