@@ -13,27 +13,27 @@ section:
 skills:
 - name: javascript / HTML5
   logo: "/images/javascript.png"
-  summary: "web audio APIなど音・音楽系のライブラリが充実していて好きです。もっと音楽系のアプリを作って行きたいです。"
+  summary: "Vue.js等のフレームワークを用いたwebアプリケーションの作成、Web Audio APIを用いたサウンドアプリのプロトタイピング"
 
 - name: python
   logo: "/images/python.png"
-  summary: "研究やちょっとした作業によく使います。機械学習・ニューラルネットワークも基本くらいは分かります。。。"
+  summary: "keras/TensorFlow等を用いたニューラルネットワーク作成"
 
 - name: Midi
   logo: "/images/midi.png"
-  summary: "MIDIを使ったアプリを作るのが好きです。MIDI検定３級。"
+  summary: "MIDI検定３級所持"
 
 - name: iOS App (Swift)
   logo: "/images/swift.png"
-  summary: "ちょっとだけ、iOSアプリかじりました。Androidよりは好きです。"
+  summary: "iOSアプリプロト制作(日記アプリ)"
 
 - name: Android App (Java)
   logo: "/images/android.png"
-  summary: "VIVITAインターン中にVIVIWARE Harmony という 音楽系アプリのプロトタイプを作りました。Kotlin勉強しなくちゃ"
+  summary: "音楽系アプリのプロトタイプ制作"
 
 - name: Git
   logo: "/images/git.png"
-  summary: "なんちゃってgitで今まで何とかきているので、しっかり勉強しましょう（）"
+  summary: "開発管理"
   url: "https://git-scm.com/"
 
 - name: Saxophone

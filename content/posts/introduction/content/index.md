@@ -2,6 +2,7 @@
 title: "このサイトについて"
 date: 2021-01-24T06:00:20+06:00
 description: このサイトの説明
+draft: true
 menu:
   sidebar:
     name: このサイトについて
